@@ -16,7 +16,7 @@ A curated list of the best marketing newsletters to keep you informed about tren
 
 ### General Marketing
 
-- [The Marketing Newsletter](https://newsletter.marketingtoolslist.com) - Weekly marketing newsletter
+- [The Marketing Newsletter](https://marketingletter.substack.com) - Weekly marketing newsletter
 - [Marketing Brew](https://www.morningbrew.com/marketing) - Daily marketing news and trends in a conversational tone.
 - [The Reeder](https://thereeder.co/) - Curated marketing news and insights, providing a comprehensive overview of industry developments.
 - [ClickZ](https://www.clickz.com/) - Focuses on digital marketing news and industry best practices.
